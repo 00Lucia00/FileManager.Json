@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltrs8d2NF5nPrMyM1cK5U2ZfdChiiLyCjijV5QfnppLVgxFlZ+KvoekJXFORUizT59C51AtkeCnPzhYx5YsfbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tobia\\OneDrive\\Skrivbord\\JsonDictionaryTests\\JsonDictionary\\JsonDictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tobia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
